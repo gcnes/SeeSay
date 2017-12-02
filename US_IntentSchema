@@ -1,0 +1,3598 @@
+{
+  "languageModel": {
+    "types": [
+      {
+        "name": "alligator",
+        "values": [
+          {
+            "id": null,
+            "name": {
+              "value": "alligator",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "alligators",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "mommy alligator",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "mom alligator",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "daddy alligator",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "dad alligator",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "gator",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "gators",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "pod",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "baby alligator",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "hatchlings",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "juveniles",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "congregation",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "congregations",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "congregation of alligators",
+              "synonyms": []
+            }
+          }
+        ]
+      },
+      {
+        "name": "baldEagle",
+        "values": [
+          {
+            "id": null,
+            "name": {
+              "value": "mommy eagle",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "mom eagle",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "daddy eagle",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "dad eagle",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "baby eagle",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "eagle",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "eagles",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "brood",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "bald eagle",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "bald eagles",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "aerie",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "white eagle",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "white",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "hen eagle",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "tierce",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "bald",
+              "synonyms": []
+            }
+          }
+        ]
+      },
+      {
+        "name": "bat",
+        "values": [
+          {
+            "id": null,
+            "name": {
+              "value": "bat",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "bats",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "mommy bat",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "mom bat",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "daddy bat",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "dad bat",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "baby bat",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Colony",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Cloud",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Flock",
+              "synonyms": []
+            }
+          }
+        ]
+      },
+      {
+        "name": "bear",
+        "values": [
+          {
+            "id": null,
+            "name": {
+              "value": "bear",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "bears",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "grizzly",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "brown bear",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "black bear",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "baby bear",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "cub",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "cubs",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "panda bear",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "polar bear",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "polar",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "panda",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "boar",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "mama bear",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "sow",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "mommy bear",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "mom bear",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "daddy bear",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "dad bear",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "baby bears",
+              "synonyms": []
+            }
+          }
+        ]
+      },
+      {
+        "name": "bee",
+        "values": [
+          {
+            "id": null,
+            "name": {
+              "value": "bee",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "bees",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "mommy bee",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "mom bee",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "daddy bee",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "dad bee",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "queen bee",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "queen",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "drone",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "worker",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "baby bee",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "bumble bee",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "bumble",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "worker bee",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "drone bee",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "swarm",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "grist",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "hive",
+              "synonyms": []
+            }
+          }
+        ]
+      },
+      {
+        "name": "cat",
+        "values": [
+          {
+            "id": null,
+            "name": {
+              "value": "cat",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "kitty",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "kitten",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "cats",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "tomcat",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "queen",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "kindle",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "mommy cat",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "mom cat",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "dad cat",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "daddy cat",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "baby cat",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "baby kitten",
+              "synonyms": []
+            }
+          }
+        ]
+      },
+      {
+        "name": "chicken",
+        "values": [
+          {
+            "id": null,
+            "name": {
+              "value": "chicken",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "hen",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "chick",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "pullet",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "peeps",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "peep",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "mommy chick",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "mommy chicken",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "mom chicken",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "dad chicken",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "daddy chicken",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "baby chick",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "baby chicken",
+              "synonyms": []
+            }
+          }
+        ]
+      },
+      {
+        "name": "cows",
+        "values": [
+          {
+            "id": null,
+            "name": {
+              "value": "cow",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "mommy cow",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "daddy cow",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "baby cow",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "mom cow",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "dad cow",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "little cow",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "moo cow",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "moo moo",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "moo",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "calf",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "cal",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "cali",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "cows",
+              "synonyms": []
+            }
+          }
+        ]
+      },
+      {
+        "name": "dog",
+        "values": [
+          {
+            "id": null,
+            "name": {
+              "value": "dog",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "doggy",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "puppy",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "pup",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "k9",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "bitch",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "litter",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "pack",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "kennel",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "mommy dog",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "daddy dog",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "dad dog",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "baby dog",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "mom dog",
+              "synonyms": []
+            }
+          }
+        ]
+      },
+      {
+        "name": "donkey",
+        "values": [
+          {
+            "id": null,
+            "name": {
+              "value": "donkey",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "jack",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "jackass",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "jennet",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "jenny",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "colt",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "foal",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "drove",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "herd",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "mommy donkey",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "daddy donkey",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "baby donkey",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "dad donkey",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "mom donkey",
+              "synonyms": []
+            }
+          }
+        ]
+      },
+      {
+        "name": "duck",
+        "values": [
+          {
+            "id": null,
+            "name": {
+              "value": "duck",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "drake",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "duckling",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "badelynge",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "brace",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "bunch",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "paddling",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "team",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "ducky",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "mommy duck",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "daddy duck",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "dad duck",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "mom duck",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "baby duck",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "baby ducky",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "mommy ducky",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "daddy ducky",
+              "synonyms": []
+            }
+          }
+        ]
+      },
+      {
+        "name": "elephant",
+        "values": [
+          {
+            "id": null,
+            "name": {
+              "value": "elephant",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "bull",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "mama elephant",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "mommy elephant",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "herd",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "parade",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "daddy elephant",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "dad elephant",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "mom elephant",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "baby elephant",
+              "synonyms": []
+            }
+          }
+        ]
+      },
+      {
+        "name": "fox",
+        "values": [
+          {
+            "id": null,
+            "name": {
+              "value": "fox",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "reynard",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "dog fox",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "tod",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "vixen",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "kit",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "skulk",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "leash",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "mommy fox",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "daddy fox",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "baby fox",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "dad fox",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "mom fox",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "kid fox",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "guy fox",
+              "synonyms": []
+            }
+          }
+        ]
+      },
+      {
+        "name": "frog",
+        "values": [
+          {
+            "id": null,
+            "name": {
+              "value": "frog",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "army",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "knot",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "tadpole",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "polliwog",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "froglet",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "mommy frog",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "daddy frog",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "dad frog",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "mom frog",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "baby frog",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "froger",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "froggy",
+              "synonyms": []
+            }
+          }
+        ]
+      },
+      {
+        "name": "goat",
+        "values": [
+          {
+            "id": null,
+            "name": {
+              "value": "goat",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "buck",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "billy",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "billy goat",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "doe",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "nanny",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "kid",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "tribe",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "trip",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "baby goat",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "mommy goat",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "daddy goat",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "dad goat",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "mom goat",
+              "synonyms": []
+            }
+          }
+        ]
+      },
+      {
+        "name": "hippo",
+        "values": [
+          {
+            "id": null,
+            "name": {
+              "value": "hippo",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "hippopotamus",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "hippos",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "bloat",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "baby hippo",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "mommy hippo",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "daddy hippo",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "dad hippo",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "mom hippo",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "mommy hippopotamus",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "daddy hippopotamus",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "dad hippopotamus",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "mom hippopotamus",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "baby hippopotamus",
+              "synonyms": []
+            }
+          }
+        ]
+      },
+      {
+        "name": "horse",
+        "values": [
+          {
+            "id": null,
+            "name": {
+              "value": "horse",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "stallion",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "stud",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "mare",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "dam",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "foal",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "colt",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "filly",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "stable",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "harras",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "team",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "string",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "field",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "mommy horse",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "daddy horse",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "dad horse",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "mom horse",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "baby horse",
+              "synonyms": []
+            }
+          }
+        ]
+      },
+      {
+        "name": "lamb",
+        "values": [
+          {
+            "id": null,
+            "name": {
+              "value": "lamb",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "baby lamb",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "mommy lamb",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "daddy lamb",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "mom lamb",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "dad lamb",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "little lamb",
+              "synonyms": []
+            }
+          }
+        ]
+      },
+      {
+        "name": "lion",
+        "values": [
+          {
+            "id": null,
+            "name": {
+              "value": "lion",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "lioness",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "pride",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "baby lion",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "mommy lion",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "daddy lion",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "mom lion",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "dad lion",
+              "synonyms": []
+            }
+          }
+        ]
+      },
+      {
+        "name": "monkey",
+        "values": [
+          {
+            "id": null,
+            "name": {
+              "value": "monkey",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "troop",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "cartload",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "mommy monkey",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "daddy monkey",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "dad monkey",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "mom monkey",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "baby monkey",
+              "synonyms": []
+            }
+          }
+        ]
+      },
+      {
+        "name": "owl",
+        "values": [
+          {
+            "id": null,
+            "name": {
+              "value": "owl",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "owlet",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "fledgling",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "mommy owl",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "baby owl",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "daddy oel",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "mom owl",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "dad owl",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "little owl",
+              "synonyms": []
+            }
+          }
+        ]
+      },
+      {
+        "name": "parrot",
+        "values": [
+          {
+            "id": null,
+            "name": {
+              "value": "mommy parrot",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "daddy parrot",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "mom parrot",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "dad parrot",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "baby parrot",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "parrot",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "parrots",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "pandemonium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "company",
+              "synonyms": []
+            }
+          }
+        ]
+      },
+      {
+        "name": "penguin",
+        "values": [
+          {
+            "id": null,
+            "name": {
+              "value": "mommy penguin",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "mom penguin",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "daddy penguin",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "dad penguin",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "baby penguin",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "penguin",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "penguins",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "waddle",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "raft",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "nestlings",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "guards",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "guard",
+              "synonyms": []
+            }
+          }
+        ]
+      },
+      {
+        "name": "pig",
+        "values": [
+          {
+            "id": null,
+            "name": {
+              "value": "pig",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "sounder",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "piglet",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "shoat",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "farrow",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "baby pig",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "mommy pig",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "daddy pig",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "dad pig",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "mom pig",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "babe",
+              "synonyms": []
+            }
+          }
+        ]
+      },
+      {
+        "name": "pull",
+        "values": [
+          {
+            "id": null,
+            "name": {
+              "value": "pull",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "spin",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "yes",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "yes please",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "turn",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "okay",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "affirmative",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "yea",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "yep",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "aye",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "all right",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "certainly",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "definitely",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "gladly",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "of course",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "surely",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "sure",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "sure thing",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "very well",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "rip",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "yank",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "tug",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "tug it",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "drag",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "pluck",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "spin the wheel",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "pull the lever",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "pull the handle",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "pull it",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "crank",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "shake it up",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "shake it",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "shake",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "random",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "random animal",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "random animals",
+              "synonyms": []
+            }
+          }
+        ]
+      },
+      {
+        "name": "rooster",
+        "values": [
+          {
+            "id": null,
+            "name": {
+              "value": "rooster",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "mommy rooster",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "daddy rooster",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "baby rooster",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "dad rooster",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "mom rooster",
+              "synonyms": []
+            }
+          }
+        ]
+      },
+      {
+        "name": "seal",
+        "values": [
+          {
+            "id": null,
+            "name": {
+              "value": "mommy seal",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "mom seal",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "dad seal",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "daddy seal",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "baby seal",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "seal",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "seals",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "crash",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "harem",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "rookery",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "spring",
+              "synonyms": []
+            }
+          }
+        ]
+      },
+      {
+        "name": "sealion",
+        "values": [
+          {
+            "id": null,
+            "name": {
+              "value": "mommy sea lion",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "mom sea lion",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "daddy sea lion",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "dad sea lion",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "sea lion",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "sea lions",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "baby sea lions",
+              "synonyms": []
+            }
+          }
+        ]
+      },
+      {
+        "name": "sheep",
+        "values": [
+          {
+            "id": null,
+            "name": {
+              "value": "sheep",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "buck",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "ram",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "ewe",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "dam",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "drift",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "drove",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "flock",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "herd",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "mob",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "mommy sheep",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "daddy sheep",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "baby sheep",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "dad sheep",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "mom sheep",
+              "synonyms": []
+            }
+          }
+        ]
+      },
+      {
+        "name": "toucan",
+        "values": [
+          {
+            "id": null,
+            "name": {
+              "value": "mommy toucan",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "mom toucan",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "daddy toucan",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "dad toucan",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "baby toucan",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "toucan",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "toucans",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "toucanets",
+              "synonyms": []
+            }
+          }
+        ]
+      },
+      {
+        "name": "whale",
+        "values": [
+          {
+            "id": null,
+            "name": {
+              "value": "mommy whale",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "mom whale",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "daddy whale",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "dad whale",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "baby whale",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "whale",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "whales",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "gam",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "gem",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "herd",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "school",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "cetaceans",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "calves",
+              "synonyms": []
+            }
+          }
+        ]
+      }
+    ],
+    "intents": [
+      {
+        "name": "alligatorIntent",
+        "samples": [
+          "{alligator}",
+          "and {alligator}",
+          "what does the {alligator} say",
+          "what does {alligator} say"
+        ],
+        "slots": [
+          {
+            "name": "alligator",
+            "type": "alligator"
+          }
+        ]
+      },
+      {
+        "name": "allIntent",
+        "samples": [
+          "give me all the animals",
+          "all the animals",
+          "please all the animals",
+          "all the animals please",
+          "all animals",
+          "a bunch of animals",
+          "all animals please",
+          "a bunch of sounds"
+        ],
+        "slots": []
+      },
+      {
+        "name": "AMAZON.CancelIntent",
+        "samples": [
+          "cancel",
+          "discontinue"
+        ]
+      },
+      {
+        "name": "AMAZON.HelpIntent",
+        "samples": [
+          "help",
+          "help me",
+          "please help",
+          "please help me",
+          "what can i do",
+          " how does this work",
+          "what is this",
+          "what will this do"
+        ]
+      },
+      {
+        "name": "AMAZON.StopIntent",
+        "samples": [
+          "no",
+          "no please",
+          "no thank you",
+          "stop",
+          "stop please",
+          "nix",
+          "not at all",
+          "no way",
+          "never",
+          "never ever",
+          "nay",
+          "nope",
+          "not",
+          "shut up",
+          "stop it"
+        ]
+      },
+      {
+        "name": "batsIntent",
+        "samples": [
+          "{bat}",
+          "and {bat}",
+          "what does the {bat} say",
+          "what does {bat} say"
+        ],
+        "slots": [
+          {
+            "name": "bat",
+            "type": "bat"
+          }
+        ]
+      },
+      {
+        "name": "bearIntent",
+        "samples": [
+          "{bear}",
+          "and {bear}",
+          "what does the {bear} say",
+          "what does {bear} say"
+        ],
+        "slots": [
+          {
+            "name": "bear",
+            "type": "bear"
+          }
+        ]
+      },
+      {
+        "name": "beeIntent",
+        "samples": [
+          "{bee}",
+          "and {bee}",
+          "what does the {bee} say",
+          "what does {bee} say"
+        ],
+        "slots": [
+          {
+            "name": "bee",
+            "type": "bee"
+          }
+        ]
+      },
+      {
+        "name": "catIntent",
+        "samples": [
+          "and {cat}",
+          "{cat}",
+          "what does the {cat} say",
+          "what does {cat} say"
+        ],
+        "slots": [
+          {
+            "name": "cat",
+            "type": "cat"
+          }
+        ]
+      },
+      {
+        "name": "chickenIntent",
+        "samples": [
+          "{chick}",
+          "and {chick}",
+          "what does the {chick} say",
+          "what does {chick} say"
+        ],
+        "slots": [
+          {
+            "name": "chick",
+            "type": "chicken"
+          }
+        ]
+      },
+      {
+        "name": "cowIntent",
+        "samples": [
+          "{cow}",
+          "and {cow}",
+          "what does the {cow} say",
+          "what does {cow} say"
+        ],
+        "slots": [
+          {
+            "name": "cow",
+            "type": "cows"
+          }
+        ]
+      },
+      {
+        "name": "dogIntent",
+        "samples": [
+          "and {dog}",
+          "{dog}",
+          "what does the {dog} say",
+          "what does {dog} say"
+        ],
+        "slots": [
+          {
+            "name": "dog",
+            "type": "dog"
+          }
+        ]
+      },
+      {
+        "name": "donkeyIntent",
+        "samples": [
+          "{donkey}",
+          "and {donkey}",
+          "what does the {donkey} say",
+          "what does {donkey} say"
+        ],
+        "slots": [
+          {
+            "name": "donkey",
+            "type": "donkey"
+          }
+        ]
+      },
+      {
+        "name": "duckIntent",
+        "samples": [
+          "{duck}",
+          "and {duck}",
+          "what does the {duck} say",
+          "what does {duck} say"
+        ],
+        "slots": [
+          {
+            "name": "duck",
+            "type": "duck"
+          }
+        ]
+      },
+      {
+        "name": "eagleIntent",
+        "samples": [
+          "{eagle}",
+          "and {eagle}",
+          "what does the {eagle} say",
+          "what does {eagle}"
+        ],
+        "slots": [
+          {
+            "name": "eagle",
+            "type": "baldEagle"
+          }
+        ]
+      },
+      {
+        "name": "elephantIntent",
+        "samples": [
+          "{elephant}",
+          "and {elephant}",
+          "what does the {elephant} say",
+          "what does {elephant} say"
+        ],
+        "slots": [
+          {
+            "name": "elephant",
+            "type": "elephant"
+          }
+        ]
+      },
+      {
+        "name": "factIntent",
+        "samples": [
+          "give me a fact",
+          "tell me a fact",
+          "a fact",
+          "fact",
+          "facts",
+          "please give me a fact",
+          "please tell me a fact"
+        ],
+        "slots": []
+      },
+      {
+        "name": "foxIntent",
+        "samples": [
+          "{fox}",
+          "and {fox}",
+          "what does the {fox} say",
+          "what does {fox} say"
+        ],
+        "slots": [
+          {
+            "name": "fox",
+            "type": "fox"
+          }
+        ]
+      },
+      {
+        "name": "frogIntent",
+        "samples": [
+          "{frog}",
+          "and {frog}",
+          "what does the {frog} say",
+          "what does {frog} say"
+        ],
+        "slots": [
+          {
+            "name": "frog",
+            "type": "frog"
+          }
+        ]
+      },
+      {
+        "name": "goatIntent",
+        "samples": [
+          "{goat}",
+          "and {goat}",
+          "what does the {goat} say",
+          "what does {goat} say"
+        ],
+        "slots": [
+          {
+            "name": "goat",
+            "type": "goat"
+          }
+        ]
+      },
+      {
+        "name": "hippoIntent",
+        "samples": [
+          "{hippo}",
+          "and {hippo}",
+          "what does the {hippo} say",
+          "what does {hippo} say"
+        ],
+        "slots": [
+          {
+            "name": "hippo",
+            "type": "hippo"
+          }
+        ]
+      },
+      {
+        "name": "horseIntent",
+        "samples": [
+          "{horse}",
+          "and {horse}",
+          "what does the {horse} say",
+          "what does {horse} say"
+        ],
+        "slots": [
+          {
+            "name": "horse",
+            "type": "horse"
+          }
+        ]
+      },
+      {
+        "name": "lambIntent",
+        "samples": [
+          "{lamb}",
+          "and {lamb}",
+          "what does the {lamb} say",
+          "what does {lamb} say"
+        ],
+        "slots": [
+          {
+            "name": "lamb",
+            "type": "lamb"
+          }
+        ]
+      },
+      {
+        "name": "lionIntent",
+        "samples": [
+          "{lion}",
+          "and {lion}",
+          "what does the {lion} say",
+          "what does {lion} say"
+        ],
+        "slots": [
+          {
+            "name": "lion",
+            "type": "lion"
+          }
+        ]
+      },
+      {
+        "name": "monkeyIntent",
+        "samples": [
+          "{monkey}",
+          "and {monkey}",
+          "what does the {monkey} say",
+          "what does {monkey} say"
+        ],
+        "slots": [
+          {
+            "name": "monkey",
+            "type": "monkey"
+          }
+        ]
+      },
+      {
+        "name": "owlIntent",
+        "samples": [
+          "{owl}",
+          "and {owl}",
+          "what does the {owl} say",
+          "what does {owl} say"
+        ],
+        "slots": [
+          {
+            "name": "owl",
+            "type": "owl"
+          }
+        ]
+      },
+      {
+        "name": "parrotIntent",
+        "samples": [
+          "{parrot}",
+          "and {parrot}",
+          "what doe the {parrot} say",
+          "what does {parrot} say"
+        ],
+        "slots": [
+          {
+            "name": "parrot",
+            "type": "parrot"
+          }
+        ]
+      },
+      {
+        "name": "penguinIntent",
+        "samples": [
+          "{penguin}",
+          "and {penguin}",
+          "what does the {penguin} say",
+          "what does {penguin} say"
+        ],
+        "slots": [
+          {
+            "name": "penguin",
+            "type": "penguin"
+          }
+        ]
+      },
+      {
+        "name": "pigIntent",
+        "samples": [
+          "{pig}",
+          "and {pig}",
+          "what does the {pig} say",
+          "what does {pig} say"
+        ],
+        "slots": [
+          {
+            "name": "pig",
+            "type": "pig"
+          }
+        ]
+      },
+      {
+        "name": "randomAnimalsIntent",
+        "samples": [
+          "{randomanimals}",
+          "{randomanimals} it",
+          "and {randomanimals} it",
+          "and {randomanimals}",
+          "give me a {randomanimals}",
+          "take a {randomanimals}",
+          "and take a {randomanimals}",
+          "and give it a {randomanimals}",
+          "give it a {randomanimals}",
+          "play me {randomanimals}",
+          "play {randomanimals}"
+        ],
+        "slots": [
+          {
+            "name": "randomanimals",
+            "type": "pull"
+          }
+        ]
+      },
+      {
+        "name": "roosterIntent",
+        "samples": [
+          "{rooster}",
+          "and {rooster}",
+          "what does the {rooster} say",
+          "what does {rooster} say"
+        ],
+        "slots": [
+          {
+            "name": "rooster",
+            "type": "rooster"
+          }
+        ]
+      },
+      {
+        "name": "sealIntent",
+        "samples": [
+          "{seal}",
+          "and {seal}",
+          "what does the {seal} say",
+          "what does {seal} say"
+        ],
+        "slots": [
+          {
+            "name": "seal",
+            "type": "seal"
+          }
+        ]
+      },
+      {
+        "name": "seaLionIntent",
+        "samples": [
+          "{sealion}",
+          "and {sealion}",
+          "what does the {sealion} say",
+          "what does {sealion} say"
+        ],
+        "slots": [
+          {
+            "name": "sealion",
+            "type": "sealion"
+          }
+        ]
+      },
+      {
+        "name": "sheepIntent",
+        "samples": [
+          "{sheep}",
+          "and {sheep}",
+          "what does the {sheep} say",
+          "what does {sheep} say"
+        ],
+        "slots": [
+          {
+            "name": "sheep",
+            "type": "sheep"
+          }
+        ]
+      },
+      {
+        "name": "toucanIntent",
+        "samples": [
+          "{toucan}",
+          "and {toucan}",
+          "what does the {toucan} say",
+          "what does {toucan} say"
+        ],
+        "slots": [
+          {
+            "name": "toucan",
+            "type": "toucan"
+          }
+        ]
+      },
+      {
+        "name": "Unhandled",
+        "samples": [
+          "{city}",
+          "{unusedAnimals}",
+          "and {city}",
+          "and {unusedAnimals}",
+          "{color}",
+          "and {color}",
+          "{device}",
+          "and {device}",
+          "what does the {unusedAnimals} say",
+          "what does {unusedAnimals} say",
+          "what does the {device} say",
+          "what does {device} say",
+          "what does the {color} say",
+          "what does {color} say",
+          "what does the {city} say",
+          "what does {city} say"
+        ],
+        "slots": [
+          {
+            "name": "city",
+            "type": "AMAZON.US_CITY"
+          },
+          {
+            "name": "unusedAnimals",
+            "type": "AMAZON.Animal"
+          },
+          {
+            "name": "color",
+            "type": "AMAZON.Color"
+          },
+          {
+            "name": "device",
+            "type": "AMAZON.DeviceType"
+          }
+        ]
+      },
+      {
+        "name": "whaleIntent",
+        "samples": [
+          "{whale}",
+          "and {whale}",
+          "what does the {whale} say",
+          "what does {whale} say"
+        ],
+        "slots": [
+          {
+            "name": "whale",
+            "type": "whale"
+          }
+        ]
+      }
+    ],
+    "invocationName": "see say"
+  }
+}
